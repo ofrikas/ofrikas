@@ -17,8 +17,6 @@ I build agentic workflows that turn complex security processes into scalable, au
 
 <br><br>
 
-<img src="Picture1.jpg" alt="Ofri Kastenbaum" width="600" style="border-radius: 15px;">
-
 </div>
 
 <hr>
