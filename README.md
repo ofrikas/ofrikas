@@ -4,12 +4,9 @@
 <h3>Cybersecurity Engineer | AI Agent Developer</h3>
 
 <p>
-<b>I operate at the intersection of cybersecurity, automation, and AI.</b>
-<br>
+<b>I operate at the intersection of cybersecurity, automation, and AI.</b><br>
 I build agentic workflows that turn complex security processes into scalable, autonomous systems.
 </p>
-
-<br>
 
 <a href="https://linkedin.com/in/ofri-kastenbaum">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -18,22 +15,17 @@ I build agentic workflows that turn complex security processes into scalable, au
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
 <img src="Picture1.jpg" alt="Ofri Kastenbaum" width="600" style="border-radius: 15px;">
+
 </div>
 
-<br>
 <hr>
 
 <div align="center">
 
 ### 🛠 Tech Stack
-
-<br>
 
 <h3>💻 Programming Languages</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -43,15 +35,11 @@ I build agentic workflows that turn complex security processes into scalable, au
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=gnu&logoColor=white" alt="Assembly" />
 
-<br><br>
-
 <h3>🌐 Web & Backend</h3>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
-
-<br><br>
 
 <h3>☁️ DevOps & Cloud Systems</h3>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -60,8 +48,6 @@ I build agentic workflows that turn complex security processes into scalable, au
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-
-<br><br>
 
 <h3>🛡️ Cybersecurity & Automation</h3>
 <img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender" />
@@ -73,15 +59,9 @@ I build agentic workflows that turn complex security processes into scalable, au
 <img src="https://img.shields.io/badge/Threat_Detection-8A2BE2?style=for-the-badge&logo=crowdstrike&logoColor=white" alt="Threat Detection" />
 <img src="https://img.shields.io/badge/Incident_Response-D00000?style=for-the-badge&logo=pagerduty&logoColor=white" alt="Incident Response" />
 
-<br><br>
-
 <h3>🤖 AI & Agentic Systems</h3>
 <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
 <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=robot-framework&logoColor=white" alt="AI Agents" />
 <img src="https://img.shields.io/badge/Torq-00C7B7?style=for-the-badge&logo=auth0&logoColor=white" alt="Torq" />
 <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-
-</div>
-<br>
-<hr>
