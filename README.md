@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Ofri Kastenbaum</h1>
-  <h3>Cybersecurity Architect | AI Agent Developer</h3>
+  <h3>Cybersecurity Engineer | AI Agent Developer</h3>
 
   <p>
     <b>I operate at the intersection of cybersecurity, automation, and AI.</b>
@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-  <img src="./profile-banner.jpg" alt="Ofri working on Cyber Automation" width="100%" style="border-radius: 10px; border: 2px solid #30363d;" />
+  <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/GpFZZLZ8/Picture1.png' border='0' alt='Picture1'></a>
 </div>
 
 <br>
@@ -34,6 +34,7 @@
 **Programming Languages**
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -52,11 +53,13 @@
 
 <br>
 
-**DevOps & Systems**
+**DevOps & Cloud Systems**
 <div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </div>
 
@@ -64,9 +67,12 @@
 
 **Cybersecurity & Automation**
 <div>
-  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender" />
+  <img src="https://img.shields.io/badge/Check_Point_Infinity-EC1C24?style=for-the-badge&logo=check-point-software-technologies&logoColor=white" alt="Check Point Infinity" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/SIEM-2F4F4F?style=for-the-badge&logo=logstash&logoColor=white" alt="SIEM" />
   <img src="https://img.shields.io/badge/SOAR-005571?style=for-the-badge&logo=powerautomate&logoColor=white" alt="SOAR" />
+  <img src="https://img.shields.io/badge/Compliance-4B0082?style=for-the-badge&logo=files&logoColor=white" alt="Compliance" />
   <img src="https://img.shields.io/badge/Threat_Detection-8A2BE2?style=for-the-badge&logo=crowdstrike&logoColor=white" alt="Threat Detection" />
   <img src="https://img.shields.io/badge/Incident_Response-D00000?style=for-the-badge&logo=pagerduty&logoColor=white" alt="Incident Response" />
 </div>
@@ -84,9 +90,3 @@
 
 <br>
 <hr>
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofrikas&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Ofri's Stats" />
-</div>
