@@ -4,7 +4,6 @@
   <h3>Cybersecurity Architect | AI Agent Developer</h3>
 
   <p>
-    <b>Turning noise into signal.</b>
     <br>
     I operate at the intersection of Cybersecurity and Autonomous AI.
     <br>
