@@ -21,14 +21,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <a href='https://postimages.org/' target='_blank'>
-    <img src='https://i.postimg.cc/GpFZZLZ8/Picture1.png' border='0' alt='Ofri Kastenbaum' width="800" style="border-radius: 10px;">
-  </a>
-</div>
-
-<br>
 <hr>
 
 <div align="center">
