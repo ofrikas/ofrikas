@@ -46,6 +46,7 @@ I build agentic workflows that turn complex security processes into scalable, au
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 
 <h3>🛡️ Cybersecurity & Automation</h3>
 <img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender" />
@@ -62,4 +63,3 @@ I build agentic workflows that turn complex security processes into scalable, au
 <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=robot-framework&logoColor=white" alt="AI Agents" />
 <img src="https://img.shields.io/badge/Torq-00C7B7?style=for-the-badge&logo=auth0&logoColor=white" alt="Torq" />
 <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
