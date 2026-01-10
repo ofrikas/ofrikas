@@ -61,5 +61,7 @@ I build agentic workflows that turn complex security processes into scalable, au
 <h3>🤖 AI & Agentic Systems</h3>
 <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
 <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=robot-framework&logoColor=white" alt="AI Agents" />
-<img src="https://img.shields.io/badge/Torq-00C7B7?style=for-the-badge&logo=auth0&logoColor=white" alt="Torq" />
-<img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Torq-00C7B7?style=for-the-badge&logoColor=white" alt="Torq" />
+
+</div>
