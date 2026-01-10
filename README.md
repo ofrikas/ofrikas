@@ -54,6 +54,8 @@ I build agentic workflows that turn complex security processes into scalable, au
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
 <img src="https://img.shields.io/badge/SIEM-2F4F4F?style=for-the-badge&logo=logstash&logoColor=white" alt="SIEM" />
 <img src="https://img.shields.io/badge/SOAR-005571?style=for-the-badge&logo=powerautomate&logoColor=white" alt="SOAR" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Torq-00C7B7?style=for-the-badge&logoColor=white" alt="Torq" />
 <img src="https://img.shields.io/badge/Compliance-4B0082?style=for-the-badge&logo=files&logoColor=white" alt="Compliance" />
 <img src="https://img.shields.io/badge/Threat_Detection-8A2BE2?style=for-the-badge&logo=crowdstrike&logoColor=white" alt="Threat Detection" />
 <img src="https://img.shields.io/badge/Incident_Response-D00000?style=for-the-badge&logo=pagerduty&logoColor=white" alt="Incident Response" />
@@ -61,7 +63,10 @@ I build agentic workflows that turn complex security processes into scalable, au
 <h3>🤖 AI & Agentic Systems</h3>
 <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
 <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=robot-framework&logoColor=white" alt="AI Agents" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/Torq-00C7B7?style=for-the-badge&logoColor=white" alt="Torq" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/RAG-FF4F00?style=for-the-badge&logo=googlescholar&logoColor=white" alt="RAG" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/LlamaIndex-12100E?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
 
 </div>
